@@ -1,5 +1,0 @@
-# Ignore Git internal files
-.git/
-
-# Ignore node_modules and its contents
-node_modules/
